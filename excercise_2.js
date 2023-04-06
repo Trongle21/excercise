@@ -20,4 +20,4 @@ function is_palinddrome(x) {
     }
     return;
 }
-console.log(is_palinddrome(342))
+console.log(is_palinddrome(232))
